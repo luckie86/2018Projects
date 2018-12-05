@@ -1,0 +1,18 @@
+#firstbox {
+  background-color: #4286f4;
+  color: white;
+  height: 100px;
+  width: auto;
+}
+
+#secondbox {
+  background-color: rgb(222, 224, 85);
+  height: 100px;
+  width: auto;
+}
+
+#thirdbox {
+  background-color: #55c65e;
+  height: 100px;
+  width: auto;
+}
